@@ -1,0 +1,87 @@
+body
+{
+    background-color: #d6d6d6;
+    font-size: 9pt;
+    font-family: sans-serif;/*Arial, Helvetica, Verdana, */
+    margin: 0px;
+    padding: 0px;
+    color: #363636;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+form
+{
+    margin:0;
+}
+
+.sub_header
+{
+    background-color:#363636;
+    height:13px;
+}
+.spacer
+{
+     height:30px;
+     background-color:#FFFFFF;
+}
+.spacer_medium
+{
+    height:15px;
+    background-color:#FFFFFF;
+}
+.spacer_7
+{
+    height:7px;
+    background-color:#FFFFFF;
+}
+.spacer_short
+{
+    height:5px;
+    background-color:#FFFFFF;
+}
+.main_content
+{
+    background-color:#FFFFFF;
+    padding-left:90px;
+    padding-right:90px;
+}
+.anchor
+{
+	color:#d33a1c;
+}
+.footer 
+{
+    text-align:center;   
+    color:#FFFFFF;
+    font-size:9pt;
+    background-color:#363636;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+.product_banner_name
+{
+    font-size:24pt;
+    color:#363636;
+    font-family:sans-serif;
+    text-align:center;
+}
